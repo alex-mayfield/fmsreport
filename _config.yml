@@ -22,7 +22,7 @@ paginate:         2
 version:          2.1.0
 
 github:
-  repo:           https://github.com/alex-mayfield/fmsreport
+  repo:           https://github.com/alex-mayfield/fmsreport/
 
 include:
  - _pages
