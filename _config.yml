@@ -9,8 +9,9 @@ permalink:        pretty
 title:            Funding Mission Schools
 tagline:          ''
 description:      ''
-url:              https://alex-mayfield.github.io/fmsreport/
-baseurl:          https://alex-mayfield.github.io/fmsreport/
+url:              https://alex-mayfield.github.io
+baseurl:          fmsreport/
+#baseurl:          /
 
 author:
   name:           ''
