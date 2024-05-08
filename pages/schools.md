@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Schools
-permalink: /fmsreport/pages/schools
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique orci et magna viverra, non convallis ipsum consectetur. Etiam consectetur, purus vitae venenatis tempor, dui dolor congue turpis, ac volutpat justo ante et dui. Nulla justo odio, feugiat id erat vel, lobortis euismod odio. Curabitur condimentum lectus nec ligula tempor sagittis. Donec velit nisi, convallis eu mauris id, aliquam vulputate quam. Donec dictum elementum scelerisque. Nulla at suscipit elit. Pellentesque mollis bibendum metus et efficitur. Ut ornare congue lectus vitae posuere. Morbi hendrerit orci quis tortor maximus, nec fermentum nisl placerat.

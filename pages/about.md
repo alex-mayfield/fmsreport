@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /fmsreport/pages/about
 ---
 
 Donec a leo eget lorem rhoncus posuere vel quis erat. Nullam non tortor a metus aliquam porta. Proin eu aliquet sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus suscipit malesuada erat, non ultricies dolor convallis sed. Aenean sit amet blandit leo. Duis vel mollis dui. Etiam tempor commodo leo ut vulputate. Donec leo orci, sodales eget molestie bibendum, convallis id tellus. Nullam laoreet sapien vel sem tincidunt, iaculis tristique mi sollicitudin. Mauris vitae laoreet tellus. In hac habitasse platea dictumst. Sed condimentum rutrum commodo. Donec faucibus metus nec congue condimentum. In hendrerit laoreet accumsan.
