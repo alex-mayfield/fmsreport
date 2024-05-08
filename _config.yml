@@ -10,7 +10,7 @@ title:            Funding Mission Schools
 tagline:          ''
 description:      ''
 url:              https://alex-mayfield.github.io
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           ''
