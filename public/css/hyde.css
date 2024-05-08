@@ -45,6 +45,22 @@ html {
   }
 }
 
+button {
+  padding: .5rem;
+  font-size: .8rem;
+  font-weight: 400;
+  border:#fff 2px solid;
+  border-radius: 4px;
+  background-color: rgba(20, 20, 20, 0.5);
+  color: #fff;
+  margin-top: 1em;
+}
+
+button:hover {
+  background-color: rgba(20, 20, 20, 1);
+  transition:.25s
+}
+
 
 /*
  * Sidebar
@@ -79,8 +95,9 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "DM Serif Display", serif;
   font-size: 3.25rem;
+  line-height: 3rem;
 }
 
 /* Sidebar nav */
@@ -121,6 +138,26 @@ a.sidebar-nav-item:focus {
  * with a 25%-wide `.sidebar`.
  */
 
+.home {
+  background-image: url("/assets/wyandott_dark.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:#ac4142;
+  height: 100vh;
+}
+
+.home h1 {
+  color: white;
+  font-family: "DM Serif Display", serif;
+  font-size: 2.25rem;
+  font-style:italic;
+}
+
+.home p {
+  color: white;
+  font-size: 1rem;
+}
+
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
@@ -128,7 +165,6 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -137,7 +173,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
-    margin-right: 4rem;
+    margin-right: 2rem;
   }
 }
 
