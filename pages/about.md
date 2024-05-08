@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 1 About
 ---
 
 Funded with a planning Grant by the Council of Christian Colleges and Universities, _Funding Mission Schools_ is an exploratory digital history project focused on the financial, interelational, and political dimensions of Christian missions to Native Americans. Serving as a proof of concept, the proejct focuses on the decade from 1820 to 1830, the first decade that Christian missions recieved federal funding for their educational work among Native Americans. Financial and biographical data from this period was collected in late-2023. The proejct team then gathered to clean and analyze the project data. This digital report presents a few exploratory findings from this data. It is the hope of this project team, that these findings may contribute to a better understanding of the political and religious dimensions of the encounter between indigenous peoples and colonial settlers. 

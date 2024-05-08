@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data
+title: 3 Data
 ---
 
 Data collection for this and subsequent periods is ongoing. However, the biographical, relational, and financial data which fueled the findings of this project are available for download on our [GitHub Repository](https://github.com/alex-mayfield/fmsreport/tree/data). 

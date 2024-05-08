@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schools
+title: 2 Schools
 ---
 
 Importance of Choctaw
