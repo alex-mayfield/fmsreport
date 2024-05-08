@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 2 Schools
+order: 2
+title: Schools
 ---
 
 ## Importance of Choctaw Mission
