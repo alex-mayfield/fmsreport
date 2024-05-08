@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique orci et magna viverra, non convallis ipsum consectetur. Etiam consectetur, purus vitae venenatis tempor, dui dolor congue turpis, ac volutpat justo ante et dui. Nulla justo odio, feugiat id erat vel, lobortis euismod odio. Curabitur condimentum lectus nec ligula tempor sagittis. Donec velit nisi, convallis eu mauris id, aliquam vulputate quam. Donec dictum elementum scelerisque. Nulla at suscipit elit. Pellentesque mollis bibendum metus et efficitur. Ut ornare congue lectus vitae posuere. Morbi hendrerit orci quis tortor maximus, nec fermentum nisl placerat.
-
 Donec a leo eget lorem rhoncus posuere vel quis erat. Nullam non tortor a metus aliquam porta. Proin eu aliquet sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus suscipit malesuada erat, non ultricies dolor convallis sed. Aenean sit amet blandit leo. Duis vel mollis dui. Etiam tempor commodo leo ut vulputate. Donec leo orci, sodales eget molestie bibendum, convallis id tellus. Nullam laoreet sapien vel sem tincidunt, iaculis tristique mi sollicitudin. Mauris vitae laoreet tellus. In hac habitasse platea dictumst. Sed condimentum rutrum commodo. Donec faucibus metus nec congue condimentum. In hendrerit laoreet accumsan.
 
 Vivamus eleifend vulputate hendrerit. Ut accumsan lectus vel imperdiet sagittis. Suspendisse potenti. Aliquam ut placerat lectus. Nunc laoreet convallis sem, a volutpat nisi hendrerit sed. Aliquam lobortis ex sollicitudin dolor imperdiet, sit amet tincidunt libero commodo. Morbi efficitur congue felis eget iaculis. Morbi dapibus tortor sit amet sapien pharetra accumsan.
