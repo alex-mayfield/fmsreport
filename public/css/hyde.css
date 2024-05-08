@@ -57,8 +57,8 @@ button {
 }
 
 button:hover {
-  background-color: rgba(20, 20, 20, 1);
-  transition:.25s
+  background-color: #d28445;
+  transition:.25s;
 }
 
 
@@ -91,6 +91,12 @@ button:hover {
   color: #fff;
 }
 
+ a:hover {
+  color: #d28445;
+  text-decoration: none;
+  transition: .25s;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -110,7 +116,7 @@ button:hover {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -140,6 +146,7 @@ a.sidebar-nav-item:focus {
 
 .home {
   background-image: url("/fmsreport/assets/wyandott_dark.png");
+  /* background-image: url("/assets/wyandott_dark.png"); */
   background-repeat: no-repeat;
   background-size: cover;
   background-color:#ac4142;
