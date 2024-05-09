@@ -14,7 +14,7 @@ The American Board expanded its Cherokee and Choctaw work, including the formati
 
 By 1824, new groups joined the enterprise: the Jesuits at Florissant, Missouri, the Massachusetts-based SPGNA working with the Passamaquoddies in Maine, and the Episcopalians at Oneida Castle. Perhaps it is unsurprising that these groups, all of which had important connections to much older missionary efforts (the SPGNA stood in continuity with the Puritan tradition of missions, for example), were relatively slow to secure federal funding.
 
-<iframe title="A_map" width="800" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMzdiN2MyNWYtNWM5ZS00NzMzLThjN2YtOTAzOTVjNGMwMDZlIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
+<iframe title="A_map" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMzdiN2MyNWYtNWM5ZS00NzMzLThjN2YtOTAzOTVjNGMwMDZlIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 As discussed in [Limitations](5_limitations.md), Figure A is not a comprehensive depiction of these missionary efforts, but rather portrays snapshots of each mission from the federal reports that were submitted as part of the Civilization Fund program. Not infrequently, mission superintendents neglected to send reports to Washington. This should not be taken as an indication that they did not exist during these years, that they were struggling, or that they did not receive federal funding. None of these are necessarily the case.
 
@@ -22,7 +22,7 @@ As discussed in [Limitations](5_limitations.md), Figure A is not a comprehensive
 
 The banner year in the 1820s appears to be 1825, when a flourishing archipelago of federally funded mission schools stretched from the Anishinaabe tribes of the Midwest to the Passamaquoddies of Maine, to the southeastern Cherokees, Choctaws of Mississippi, and the Osages on the edge of the Great Plains. Thirty-seven different missions were funded that year, representing eleven different groups of various denominations: Reformed (mostly Presbyterian and Congregational but also Dutch Reformed), Baptist, Methodist, Cumberland Presbyterian, Episcopal, Moravian, and Catholic (Jesuit). Figure C reflects the dramatic increase in incomes, expenditures, and property values during this period.
 
-<iframe title="C_property" width="800" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiODQ0NzY1NTktZmY1OC00NTQzLWJmN2MtMjc3YTIwM2VmZDM4IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
+<iframe title="C_property" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiODQ0NzY1NTktZmY1OC00NTQzLWJmN2MtMjc3YTIwM2VmZDM4IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 That winter into early 1826, a major panic took hold on American and international markets. We hypothesized that this crash might have led to a major reorientation of mission funding starting in 1826. Instead, our data does not show major changes associated with the Panic. Perhaps financial concerns could have been a factor in driving increased organizational interest in the fund and increasing easterners’ willingness to serve in a mission, but the Panic does not register as a major moment in the reports, which generally show steady building expenditures and slowly expanding staff numbers.
 
@@ -32,7 +32,7 @@ There were some important shifts, especially of consolidation towards the Americ
 
 Across the 1820s, the ratio of students to submitted reports remains relatively consistent, indicating that the missions that did exist, taken together, maintained relatively stable student numbers (See Figure B below) This suggests that the missions opened new schools when numbers dictated it and closed them for the same reason.
 
-<iframe title="B_students" width="800" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhMGVmYWMtYzJiMi00OWU0LWFkMDMtNzQxZjFhOWYyMjU0IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
+<iframe title="B_students" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhMGVmYWMtYzJiMi00OWU0LWFkMDMtNzQxZjFhOWYyMjU0IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 The number of reports declines towards the end of the 1820s (see [Figure J](5_limitations.md)). However, because the reports are not a full picture of the Indian mission system, this should not be taken by itself as an indication that the late 1820s witnessed a massive wave of school closures.
 
