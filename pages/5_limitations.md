@@ -27,6 +27,6 @@ Considering the above inconsistency, important caveats must be included about th
 
 <iframe title="B_students" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhMGVmYWMtYzJiMi00OWU0LWFkMDMtNzQxZjFhOWYyMjU0IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
-While Figure K suggests there is an apex of student enrollment in 1825, the data is actually reflecting a apex of reporting. Figure B suggests that (except for 1820) student enrollments remained steady throughout the period. This reporting bias was considered in this study. Should future researchers utilize this data, this bias should likewise be accounted for.
+While Figure K suggests there is an apex of student enrollment in 1825, the data is actually reflecting the apex of reporting. Figure B suggests that (except for 1820) student enrollments remained steady throughout the period. This reporting bias was considered in this study. Should future researchers utilize this data, this bias should likewise be accounted for.
 
 At the same time, this reporting bias does not so corrupt the data that a generalizable picture is impossible 1825 was a highpoint for reporting, as well as funding. When analysis is pointed towards the dynamics of federal funding, this data bias may become an asset.
