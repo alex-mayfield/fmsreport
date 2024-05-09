@@ -10,7 +10,7 @@ title:            Funding Mission Schools
 tagline:          ''
 description:      'An Exploratory Online Report'
 url:              https://github.com/alex-mayfield
-baseurl:          /fmsreport
+baseurl:          /
 
 author:
   name:           ''
