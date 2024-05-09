@@ -15,3 +15,11 @@ Funded with a planning Grant by the Council of Christian Colleges and Universiti
 **Alex Mayfield, Ph.D.** is Assistant Pofessor of History at Asbury University. His research utilizes digital methodologies which enable the reconstruction of historical networks and movements within global Christianity. He is also a Co-Investigator on the China Historical Christian Database, an international collaborative project which seeks to identify every Christian person, event, and institution in China between 1550 and 1950. His recent book, _The Kaleidoscopic City_, explores how how changes in the structural and conceptual frameworks of foreign pentecostals had a dramatic impact on the shape of Hong Kong pentecostalism.
 
 **Joseph Wang, B.S.** is currently pursuing his Master's in Computer Science at the University of California San Diego. He holds a Bachelor's of Computer Science from LeTourneau University.
+
+## Data
+
+Data collection for this and subsequent periods is ongoing. However, the biographical, relational, and financial data which fueled the findings of this project are available for download on our [GitHub Repository](https://github.com/alex-mayfield/fmsreport/tree/data). 
+
+This data is released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). As such it is free to use and addapt with proper attribution. Please use the following citation: 
+
+- Thomas Whitaker, Matthew Preston, Alex Mayfield, and Joseph Wang. "Funding Mission Schools: An Exploratory Online Report" (9 May 2024). Accessed {{ site.time | date: '%d %B %Y' }}. https://www.fmsreport.com.
