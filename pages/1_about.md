@@ -18,7 +18,7 @@ Funded with a planning Grant by the Council of Christian Colleges and Universiti
 
 ## Data
 
-Data collection for this and subsequent periods is ongoing. However, the biographical, relational, and financial data which fueled the findings of this project are available for download on our [GitHub Repository](https://github.com/alex-mayfield/fmsreport/). 
+Data collection for this and subsequent periods is ongoing. However, the biographical, relational, and financial data which fueled the findings of this project are available for download on our [GitHub Repository](https://github.com/alex-mayfield/fmsreport/tree/main/CSV). 
 
 This data is released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). As such it is free to use and addapt with proper attribution. Please use the following citation: 
 
