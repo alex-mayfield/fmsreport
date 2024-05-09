@@ -14,7 +14,7 @@ The American Board expanded its Cherokee and Choctaw work, including the formati
 
 By 1824, new groups joined the enterprise: the Jesuits at Florissant, Missouri, the Massachusetts-based SPGNA working with the Passamaquoddies in Maine, and the Episcopalians at Oneida Castle. Perhaps it is unsurprising that these groups, all of which had important connections to much older missionary efforts (the SPGNA stood in continuity with the Puritan tradition of missions, for example), were relatively slow to secure federal funding.
 
-<iframe title="A_map" width="600" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMzdiN2MyNWYtNWM5ZS00NzMzLThjN2YtOTAzOTVjNGMwMDZlIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="A_map" width="800" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMzdiN2MyNWYtNWM5ZS00NzMzLThjN2YtOTAzOTVjNGMwMDZlIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
 As discussed in [Limitations](5_limitations.md), Figure A is not a comprehensive depiction of these missionary efforts, but rather portrays snapshots of each mission from the federal reports that were submitted as part of the Civilization Fund program. Not infrequently, mission superintendents neglected to send reports to Washington. This should not be taken as an indication that they did not exist during these years, that they were struggling, or that they did not receive federal funding. None of these are necessarily the case.
 
