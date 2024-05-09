@@ -14,13 +14,9 @@ Over the course of 2023 and 2024, the project team collected, analyzed, and publ
 
 In the winter of 2023, the project team gathered at [LeTourneau University](https://www.letu.edu/) to set the agenda for the project, establish a working data model, and to begin the process of data collection. It was decided that geographic, relational, and financial data on these missions would be collected. Data was collected from two major sources:
 
-- Annual Reports, from Letters Received by the Offices of Indian Affairs (esp. Microcopy No. 234 & 271)
+- Annual Reports, from "Letters Received by the Offices of Indian Affairs" (esp. Microcopy No. 234 & 271) - These microcopies provided yearly tabular data on personnel and student numbers, as well as income and expenditures. As discussed in the [limitations section](5_limitations.md) of this report, reporting from year to year was inconsistent.
 
-These microcopies provided yearly tabular data on personnel and student numbers, as well as income and expenditures. As discussed in the [limitations section](5_limitations.md) of this report, reporting from year to year was inconsistent.
-
-- _The Missionary Herald_ (1820-1840)
-
-A regular publication of the American Board of Commissioners for Foreign Missions (ABCFM), these sources provided reports, portions of letters, and overviews of personnel at specific missions. This data was largely used to collect personnel data on who was present at each institution.
+- _The Missionary Herald_ (1820-1840) - A regular publication of the American Board of Commissioners for Foreign Missions (ABCFM), these sources provided reports, portions of letters, and overviews of personnel at specific missions. This data was largely used to collect personnel data on who was present at each institution.
 
 Over the course of three days, the project team collected data on 17 missionary organizations, 62 individual missions/schools, 421 people, and 1335 person-to-mission relationships. Eventually, this data was interpolated to provide 7153 person-to-person relationships based upon marriages and co-location at the same mission/school during the same year. This data extends across the entirety of the decade and includes financial and geographic properties.
 
