@@ -34,8 +34,10 @@ Across the 1820s, the ratio of students to submitted reports remains relatively 
 
 <iframe title="B_students" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhMGVmYWMtYzJiMi00OWU0LWFkMDMtNzQxZjFhOWYyMjU0IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
-The number of reports declines towards the end of the 1820s (see [Figure J](5_limitations.md)). However, because the reports are not a full picture of the Indian mission system, this should not be taken by itself as an indication that the late 1820s witnessed a massive wave of school closures.
+The number of reports declines towards the end of the 1820s (see [Figure J](link this)). However, because the reports are not a full picture of the Indian mission system, this should not be taken by itself as an indication that the late 1820s witnessed a massive wave of school closures.
 
 That said, the threat of removal loomed over the missions, especially following Andrew Jackson’s election in 1828 and his adoption of a policy of expelling eastern tribes beyond the Mississippi, which was formalized in the Indian Removal Act of 1830.
 
 As early as 1819, the Baptists, who had established schools among the Cherokees in the Tennessee-North Carolina borderlands, [decided to temporarily close them](https://www.google.com/books/edition/Annual_Report/SmJQAQAAMAAJ?hl=en&gbpv=1&pg=RA1-PA243&printsec=frontcover) on the basis that the tribe may soon be departing westward.
+
+Missions began to close in the late 1820s, although the major upheaval took place in the 1830s. Many of the smaller Choctaw schools existed only briefly. In Connecticut, the experimental Foreign Mission School at Cornwall was concluded in 1826 following a scandalous interracial marriage, [leading ultimately to the mission’s closure](https://www.amazon.com/Heathen-School-Story-Betrayal-Republic/dp/0679455108) in the early 1830s. The Baptists’ Carey Mission in Michigan was seriously weakened following the [Treaty of St. Joseph](https://digitreaties.org/treaties/treaty/102248598/) (1827), in which the Potawatomi ceded much of their lands in southern Michigan.
