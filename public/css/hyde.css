@@ -101,7 +101,7 @@ button:hover {
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #d26b45;
   margin-top: 0;
   font-family: "DM Serif Display", serif;
   font-size: 3.25rem;
@@ -147,7 +147,7 @@ a.sidebar-nav-item:focus {
  */
 
 .home {
-  background-image: url("/fmsreport/assets/wyandott_dark.png");
+  background-image: url("/assets/wyandott_dark.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-color:#ac4142;
