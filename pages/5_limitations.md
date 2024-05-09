@@ -10,7 +10,7 @@ Over the course of the project, it became apparent that our data sources present
 
 In the process of collecting data from both missionary and federal sources, it quickly became evident that federal reporting was inconsistent on a year-to-year basis for many groups. For example, Figure J shows a highpoint in federal reporting in 1825 with a gradual reduction in reporting for subsequent years. While there is documentary evidence to suggest that there was a general reduction in the number of mission schools, it is no where near the number reflected in the available reports.
 
-<iframe title="J_report" width="800" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiNTUyZGRkZjUtYjA4Yi00YTljLThlMDktYWMzNjdkY2MzYTZjIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
+<iframe title="J_report" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiNTUyZGRkZjUtYjA4Yi00YTljLThlMDktYWMzNjdkY2MzYTZjIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 Simply put, many groups were inconsistent in the sending of federal reports on a yearly basis. Sometimes, this inconsistency was even noted in reports from subsequent years. This gap could have several explanations. Reports may have been lost in transit, submitted improperly, or simply not submitted in the first place.
 
@@ -22,11 +22,11 @@ While the latter might seem an odd suggestion considering the Civilization Fund'
 
 Considering the above inconsistency, important caveats must be included about the correct usage of this data. First, and foremost, it should be clear that raw totals derived from federal reporting data cannot all be given equal weighting. For example, one can compare the different ways information can be derived on indigenous student enrolled in the school. 
 
-<iframe title="K_students" width="800" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMDdiNDY2MWEtNjFjNC00NWRlLWEzNjktZTI4MDIyNjQ5M2RiIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
+<iframe title="K_students" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMDdiNDY2MWEtNjFjNC00NWRlLWEzNjktZTI4MDIyNjQ5M2RiIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 Figure K gives a total of all indigenous students (grouped by tribe) according to federal reports. Figure B shows the ratio of indigenous students to federal reports received.
 
-<iframe title="B_students" width="800" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhMGVmYWMtYzJiMi00OWU0LWFkMDMtNzQxZjFhOWYyMjU0IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
+<iframe title="B_students" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhMGVmYWMtYzJiMi00OWU0LWFkMDMtNzQxZjFhOWYyMjU0IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 While Figure K suggests there is an apex of student enrollment in 1825, the data is actually reflecting a apex of reporting. Figure B suggests that (except for 1820) student enrollments remained steady throughout the period. This reporting bias was considered in this study. Should future researchers utilize this data, this bias should likewise be accounted for.
 
