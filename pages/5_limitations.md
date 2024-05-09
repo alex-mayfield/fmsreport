@@ -20,11 +20,10 @@ While the latter might seem an odd suggestion considering the Civilization Fund'
 
 ## Note on the Use of Data
 
-Considering the above inconsistency, important caveats must be included about the correct usage of this data. First, and foremost, it should be clear that raw totals derived from federal reporting data cannot all be given equal weighting. For example, one can compare the different ways information can be derived on indigenous student enrolled in the school. 
+Considering the above inconsistency, important caveats must be included about the correct usage of this data. First, and foremost, it should be clear that raw totals derived from federal reporting data cannot all be given equal weighting. For example, one can compare the different ways information can be derived on indigenous student enrolled in the school. Figure K gives a total of all indigenous students (grouped by tribe) according to federal reports. Figure B shows the ratio of indigenous students to federal reports received.
+
 
 <iframe title="K_students" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMDdiNDY2MWEtNjFjNC00NWRlLWEzNjktZTI4MDIyNjQ5M2RiIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
-
-Figure K gives a total of all indigenous students (grouped by tribe) according to federal reports. Figure B shows the ratio of indigenous students to federal reports received.
 
 <iframe title="B_students" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiZjdhMGVmYWMtYzJiMi00OWU0LWFkMDMtNzQxZjFhOWYyMjU0IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
