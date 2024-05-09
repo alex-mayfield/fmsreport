@@ -17,7 +17,7 @@ In the winter of 2023, the project team gathered at [LeTourneau University](http
 - Annual Reports, from Letters Received by the Offices of Indian Affairs (esp. Microcopy No. 234 & 271)
 These microcopies provided yearly tabular data on personnel and student numbers, as well as income and expenditures. As discussed in the [limitations section](5_limitations.md) of this report, reporting from year to year was inconsistent.
 
-- _The Missionary Herald_(1820-1840)
+- _The Missionary Herald_ (1820-1840)
 A regular publication of the American Board of Commissioners for Foreign Missions (ABCFM), these sources provided reports, portions of letters, and overviews of personnel at specific missions. This data was largely used to collect personnel data on who was present at each institution.
 
 Over the course of three days, the project team collected data on 17 missionary organizations, 62 individual missions/schools, 421 people, and 1335 person-to-mission relationships. Eventually, this data was interpolated to provide 7153 person-to-person relationships based upon marriages and co-location at the same mission/school during the same year. This data extends across the entirety of the decade and includes financial and geographic properties.
@@ -28,7 +28,7 @@ Noting the federal reporting bias of our data, a  student was employed to collec
 
 The project team reconvened in the spring of 2024 to perform analysis of the data and to publish their findings. Data was cleaned and verified through systematic cross-checking. Following data cleaning, Power BI was utilized to construct interactive data visualizations to assist in the analysis and publication of the data. 
 
-The project team then chose to publish the data via a [GitHub Repository](https://github.com/alex-mayfield/fmsreport/tree/main/CSV), and to publish interpretive findings utilizing a combination of GitHub Pages, which also enabled the embedding of Power BI visualizations.
+The project team then chose to publish the data via a [GitHub Repository](https://github.com/alex-mayfield/fmsreport/tree/main/CSV) and to publish interpretive findings utilizing a combination of GitHub Pages, which also enabled the embedding of Power BI visualizations.
 
 ## Project Team
 
