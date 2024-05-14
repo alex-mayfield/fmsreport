@@ -6,7 +6,7 @@ title: Dueling Motives
 
 ## The Insignificance of Federal Funding?
 
-<iframe title="D_fed_abcfm" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiYmI2OTJjYmYtZjI5Zi00NjNlLWI4ZWItZGRhOTU2ZDI4YmY5IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="D_fed_abcfm" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiYmI2OTJjYmYtZjI5Zi00NjNlLWI4ZWItZGRhOTU2ZDI4YmY5IiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 Politicians and Indian administrators shared a fixation on “civilization” with Christian mission leaders in the early nineteenth century. But for most mission leaders, the civilizing mission was viewed primarily as a foundation for the more important task: conversion.
 
@@ -32,7 +32,7 @@ In contrast, the ABCFM’s Cherokee schools, superintended by Ard Hoyt, did not 
 
 Because our data represents what was received by the OIA, it helps to reveal the disconnect between Boston and Washington. In the American Board’s own records, the Cherokee missions in the Southeast received close to $90,000 in the decade, while the Arkansas Cherokee missions received another $55,000 and the Choctaw missions received slightly less than $55,000. From the ABCFM’s own vantage point, the Cherokees remained the center of their mission enterprise to American Indians.
 
-<iframe title="E_people" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiNTU0OGU4ZWEtMThjYy00Y2UwLTk2YjAtNjAwZjNhMmNiNDIwIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="E_people" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiNTU0OGU4ZWEtMThjYy00Y2UwLTk2YjAtNjAwZjNhMmNiNDIwIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 Our team also considered the vocations of the various mission personnel recruited to work in the missions. Alongside superintendents, missionaries (generally ordained ministers in the 1820s), as well as occasionally other religious personnel like catechists or native preachers, teachers, both male and female, were primary to almost all missions. In addition, many missions included farmers, mechanics of all kinds (e.g. mechanics, carpenters, and blacksmiths), as well as missionary wives, who were classed, at least at first, by the ABCFM as assistant missionaries.
 
@@ -40,7 +40,7 @@ The larger missions often have large numbers of mechanics, while smaller mission
 
 ## Gospels of Gentility
 
-<iframe title="F_women" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiOTJmYzhlMjMtNWE2NC00NGRkLTlkMGItOTViZmQzMjk2MTNkIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="F_women" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiOTJmYzhlMjMtNWE2NC00NGRkLTlkMGItOTViZmQzMjk2MTNkIiwidCI6Ijk3YTU4NTU0LTg5ZjYtNGQ1YS05ODA2LWRkMGVlMDg1ZDIzNSIsImMiOjN9" style="border:2px solid gray; padding-top: .25rem;" allowFullScreen="true"></iframe>
 
 We considered the number of women in the missions. As expected from the mission history literature, single women represented a relatively small number of mission personnel during this early period. Married women served along with their husbands, but they were not always given official roles within the mission stations.
 
