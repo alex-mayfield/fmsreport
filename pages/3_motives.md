@@ -12,7 +12,7 @@ Politicians and Indian administrators shared a fixation on “civilization” wi
 
 The extent to which missionaries on the ground were driven by the motivations of the federal government because of their financial dependency on the Civilization Fund is a legitimate question. We considered the sources of funding for the largest organization, the ABCFM, which are readily obtainable in federal reports and missionary annual reports.
 
-X% of ABCFM Indian mission funds were received from the Civilization Fund, compared to X% that derived from individual donors, churches, and auxiliaries.
+Almost 14% of ABCFM Indian mission funds were received from the Civilization Fund, compared to over 86% that derived from individual donors, churches, and auxiliaries.
 
 To take the ABCFM’s most famous American missions, only about 10% of the total funding for the combined ABCFM Cherokee missions (Southeast and Arkansas) came from the federal government.
 
