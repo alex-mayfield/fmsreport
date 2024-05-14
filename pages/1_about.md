@@ -4,7 +4,7 @@ order: 1
 title: About
 ---
 
-Funded with a planning Grant by the [Council of Christian Colleges and Universities](https://www.cccu.org/), _Funding Mission Schools_ is an exploratory digital history project focused on the financial, relational, and political dimensions of Christian missions to Native Americans. Serving as a proof of concept, the project focuses on the decade from 1820 to 1830, the first decade that Christian missions received federal funding for their educational work among Native Americans. Financial and biographical data from this period was collected in late-2023. The project team then gathered to clean and analyze the project data. This digital report presents a few exploratory findings from this data. It is the hope of this project team, that these findings may contribute to a better understanding of the political and religious dimensions of the encounter between indigenous peoples and colonial settlers. 
+Funded with a planning Grant by the [Council for Christian Colleges and Universities](https://www.cccu.org/), _Funding Mission Schools_ is an exploratory digital history project focused on the financial, relational, and political dimensions of Christian missions to Native Americans. Serving as a proof of concept, the project focuses on the decade from 1820 to 1830, the first decade that Christian missions received federal funding for their educational work among Native Americans. Financial and biographical data from this period was collected in late 2023. The project team then gathered to clean and analyze the project data. This digital report presents a few exploratory findings from this data. It is the hope of this project team, that these findings may contribute to a better understanding of the political and religious dimensions of the encounter between indigenous peoples and colonial settlers. 
 
 ## Methods
 
@@ -36,7 +36,7 @@ The project team then chose to publish the data via a [GitHub Repository](https:
 
 **Alex Mayfield, Ph.D.** is Assistant Professor of History at Asbury University. His research utilizes digital methodologies which enable the reconstruction of historical networks and movements within global Christianity. He is also a Co-Investigator on the China Historical Christian Database, an international collaborative project which seeks to identify every Christian person, event, and institution in China between 1550 and 1950. His recent book, _The Kaleidoscopic City_, explores how changes in the structural and conceptual frameworks of foreign Pentecostals had a dramatic impact on the shape of Hong Kong Pentecostalism.
 
-**Joseph Wang, B.S.** is currently pursuing his Master's in Computer Science at the University of Southern California. He holds a Bachelors of Computer Engineering from LeTourneau University.
+**Joseph Wang, B.S.** is currently pursuing his Master's in Computer Science at the University of Southern California. He holds a Bachelors of Science in Computer Engineering from LeTourneau University.
 
 ## Data
 
