@@ -4,7 +4,7 @@ order: 1
 title: About
 ---
 
-Funded with a planning grant from the [Council for Christian Colleges and Universities](https://www.cccu.org/), _Funding Mission Schools_ is an exploratory digital history project focused on the financial, relational, and political dimensions of Christian missions to Native Americans. Serving as a proof of concept, the project focuses on the decade from 1820 to 1830, the first decade that Christian missions received federal funding for their educational work among Native Americans. Financial and biographical data from this period was collected in late 2023. The project team then gathered to clean and analyze the project data. This digital report presents a few exploratory findings from this data. It is the hope of this project team, that these findings may contribute to a better understanding of the political and religious dimensions of the encounter between indigenous peoples and colonial settlers. 
+Funded with a planning grant from the [Council for Christian Colleges and Universities](https://www.cccu.org/), _Funding Mission Schools_ is an exploratory digital history project focused on the financial, relational, and political dimensions of Christian missions to Native Americans. Serving as a proof of concept, the project focuses on the decade from 1820 to 1830, the first decade that Christian missions received federal funding for their educational work among Native Americans. Financial and biographical data from this period was collected in late 2023. The project team then gathered to clean and analyze the project data. This digital report presents a few exploratory findings from this data. It is the hope of this project team, that these findings may contribute to a better understanding of the political and religious dimensions of the encounter between indigenous peoples and colonial settlers.
 
 ## Methods
 
@@ -24,9 +24,12 @@ Noting the federal reporting bias of our data, a  student was employed to collec
 
 **Phase 2: Analysis and Publication**
 
-The project team reconvened in the spring of 2024 to perform analysis of the data and to publish their findings. Data was cleaned and verified through systematic cross-checking. Following data cleaning, Power BI was utilized to construct interactive data visualizations to assist in the analysis and publication of the data. 
+The project team reconvened in the spring of 2024 at [Asbury University](https://www.asbury.edu/) to perform analysis of the data and to publish their findings. Data was cleaned and verified through systematic cross-checking. Following data cleaning, Power BI was utilized to construct interactive data visualizations to assist in the analysis and publication of the data. 
 
 The project team then chose to publish the data via a [GitHub Repository](https://github.com/alex-mayfield/fmsreport/tree/main/CSV) and to publish interpretive findings utilizing a combination of GitHub Pages, which also enabled the embedding of Power BI visualizations.
+
+![Choctaw Academy](https://raw.githubusercontent.com/alex-mayfield/fmsreport/gh-pages/assets/choctawacademy.jpg)
+*Two project team members paid a visit to Choctaw Academy, located in Scott County, Kentucky, within driving distance of our Phase 2 host, Asbury University*
 
 ## Project Team
 
